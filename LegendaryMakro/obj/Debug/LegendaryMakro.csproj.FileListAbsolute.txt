@@ -1,0 +1,12 @@
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\bin\Debug\LegendaryMakro.exe.config
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\bin\Debug\LegendaryMakro.exe
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\bin\Debug\LegendaryMakro.pdb
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\bin\Debug\Guna.UI2.dll
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.csproj.AssemblyReference.cache
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.Form1.resources
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.Properties.Resources.resources
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.csproj.CopyComplete
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.exe
+C:\Users\Hilal\source\repos\LegendaryMakro\LegendaryMakro\obj\Debug\LegendaryMakro.pdb
